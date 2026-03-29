@@ -97,7 +97,7 @@ public class DashboardUI extends Application { // MAIN CLASS [Standard JAvaFX gr
         root.setStyle("-fx-background-color: #1e1e2e;");
 
         Scene scene = new Scene(root, 960, 680);
-        stage.setTitle("CorePulse — Hardware Monitor  [40% Demo]");
+        stage.setTitle("CorePulse — Hardware Monitor");
         stage.setScene(scene);
         stage.show();
 
