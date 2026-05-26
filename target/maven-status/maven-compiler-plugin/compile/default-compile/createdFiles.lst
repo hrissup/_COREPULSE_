@@ -1,0 +1,5 @@
+com\corepulse\DatabaseManager.class
+com\corepulse\PulseEngine.class
+com\corepulse\PulseEngine$HardwareSnapshot.class
+com\corepulse\DashboardUI.class
+com\corepulse\Main.class
